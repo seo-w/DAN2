@@ -225,7 +225,7 @@ ul.nav-second-level {
       height: 34px;
     margin: 0;
     z-index: 2000;
-    border: 1px solid;
+    border: 1px solid #1ab394;
 }
 
 .input-group.keyword {
